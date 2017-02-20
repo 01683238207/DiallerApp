@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Student Information</string>
+    <string name="SearchId">Search by id</string>
+    <string name="SearchName">Search by Name</string>
+    <string name="ovi">13105615</string>
+    <string-array name="titles">
+        <item>13105615</item>
+        <item>13129325</item>
+        <item>1224345</item>
+        <item>1324325</item>
+        <item>21423443</item>
+    </string-array>
+</resources>
