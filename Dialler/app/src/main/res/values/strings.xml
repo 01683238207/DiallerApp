@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialler</string>
+    <string name="msg" />
+    <string name="Enter_number"/>
+</resources>
